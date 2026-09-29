@@ -222,5 +222,5 @@ def run_library_system():
 if __name__ == "__main__":
     run_library_system()
 
-#akriti # Fetches book data from a given URL (assuming JSON format) and returns a list of book dictionaries
+# Fetches book data from a given URL (assuming JSON format) and returns a list of book dictionaries
 # Handles potential HTTP request and JSON parsing errors
