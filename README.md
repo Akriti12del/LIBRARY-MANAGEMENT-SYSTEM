@@ -12,7 +12,7 @@ A simple **Library Management System built using Python and Object-Oriented Prog
 **Language:** Python
 **Level:** 1st Semester College Project
 **Programming Concepts:** Object-Oriented Programming (OOP), Functions, Lists, Dictionaries, Exception Handling
-**Author:** Lokavya Vashishtha
+**Author:** akriti srivastava
 
 ---
 
